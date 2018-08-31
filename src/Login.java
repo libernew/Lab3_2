@@ -14,6 +14,8 @@ public class Login {
             @Override
             public void actionPerformed(ActionEvent e) {
                 JOptionPane.showMessageDialog(null, textuser.getText());
-        });
+
+            }
+            });
     }
 }
